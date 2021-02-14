@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agriomed",
+            "cwd": "FlutterGames\\agriomed",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calc_1",
+            "cwd": "FlutterGames\\calc_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "email_test",
+            "cwd": "FlutterGames\\email_test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firebase_test",
+            "cwd": "FlutterGames\\firebase_test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firestore",
+            "cwd": "FlutterGames\\firestore",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "myapp",
+            "cwd": "FlutterGames\\myapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ninja_id",
+            "cwd": "FlutterGames\\ninja_id",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "quotes",
+            "cwd": "FlutterGames\\quotes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "quotes2",
+            "cwd": "FlutterGames\\quotes2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "splash1",
+            "cwd": "FlutterGames\\splash1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starttt",
+            "cwd": "FlutterGames\\starttt",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "startup",
+            "cwd": "FlutterGames\\startup",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "startup2",
+            "cwd": "FlutterGames\\startup2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "world_time",
+            "cwd": "FlutterGames\\world_time",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_imageClassification",
+            "cwd": "New folder\\flutter_imageClassification",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_app",
+            "cwd": "VsCodeFlutter\\flutter_app",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

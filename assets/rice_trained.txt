@@ -1,0 +1,3 @@
+0 rice_bacterial_leaf_blight
+1 rice_brown_spot
+2 rice_leaf_smut

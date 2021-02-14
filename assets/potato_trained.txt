@@ -1,0 +1,3 @@
+0 potato_early_blight
+1 potato_late_blight
+2 potato_healthy

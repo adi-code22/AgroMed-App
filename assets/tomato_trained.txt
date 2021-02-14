@@ -1,0 +1,4 @@
+0 tomato_early_blight
+1 tomato_late_blight
+2 tomato_healthy
+3 tomato_mosaic_virus

@@ -1,0 +1,2 @@
+0 cucumber_healthy
+1 cucumber_diseased
