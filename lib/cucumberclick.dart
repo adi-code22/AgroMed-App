@@ -7,6 +7,7 @@ class CucumberDiseaseDetection extends StatefulWidget {
   @override
   _DiseaseDetectionState createState() => _DiseaseDetectionState();
 }
+//cUCUCMBER
 
 class _DiseaseDetectionState extends State<CucumberDiseaseDetection> {
   List _outputs;
@@ -217,6 +218,7 @@ class _DiseaseDetectionState extends State<CucumberDiseaseDetection> {
                   height: MediaQuery.of(context).size.height * 0.01,
                 ),
               ],
+//HI
             ),
           ),
         ),
