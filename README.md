@@ -1,6 +1,7 @@
-# agromed_main
+# AgroMed
 
-A new Flutter project.
+Field level identification of pest and diseases in plants using ML model trained into Flutter Application
+
 
 ## Getting Started
 
