@@ -1,11 +1,15 @@
 <img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/imageedit_5_5195865822.png" height="400" width="400"/>
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 # AgroMed
 
 Field level identification of pest and diseases in plants using ML model trained into Flutter Application
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # Objectives 
