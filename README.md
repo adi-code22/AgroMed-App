@@ -77,4 +77,29 @@ This is the screen where you are notified about the results of the analysis
 - The model also suggests the Biological and Chemical treatment required for the particular leaf.
 - The App also predicts the nearest stores where these are available
 
+## Technical Details
+
+Convolutional Neural Network models were developed to perform plant disease detection and diagnosis using simple leaves images of healthy and diseased plants, through machine learning methodologies.
+
+Data Processing
+
+- Load Original Image. A total of 1000 images for each class Diseased and Healthy is fed for the machine.
+- Conversion of image from RGB to BGR. Using Open CV.
+- Conversion of image from BGR to HSV.
+- Image Segmentation for extraction of Colors. In order to separate the picture of leaf from the background segmentation has to performed,
+
+The color of the leaf is extracted from the image.
+- Global features are extracted from the image using three feature descriptors namely :
+• Color
+• Shape
+• Texture
+- The Dataset is split into training and testing set with the ratio of 80/20 respectively.
+- After features are extracted from the images they are saved in HDF5 file. The Hierarchical Data Format version 5 (HDF5), is an open source file format that supports large, complex, heterogeneous data.
+- Prediction The models with best performance is then trained with whole of the dataset and score for testing set is predicted using Predict function.
+
+## How to use
+
+Assuming that you have Flutter installed in your System and either AVD or a smartphone with USB debugging is available;
+Clone the repository and run ```flutter run``` inside the root repository and you'll get this running
+
 
