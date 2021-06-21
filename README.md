@@ -1,13 +1,13 @@
 <img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/imageedit_5_5195865822.png" height="400" width="400"/>
 
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # AgroMed
 
-Field level identification of pest and diseases in plants using ML model trained into Flutter Application
+Field level identification of pest and diseases in plants using ML model trained into Flutter Application  
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -30,17 +30,51 @@ like the kind of disease their plants are facing, the method they use to cure th
  The biological control minimizes the environmental , legal & public safety concerns. 
 This app can also provide agricultural departmental notifications directly to the farmers smartphone, details about collection of harvested crops by the government etc.
 
+# Watch this
+
+<img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/WhatsApp%20Image%202021-03-11%20at%2019.22.05.jpeg?raw=true"  width="200"/>  
+<img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/WhatsApp%20Image%202021-06-21%20at%2017.29.01%20(1).jpeg?raw=true"  width="200"/>
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p>&nbsp;</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>&nbsp;</p>
+
+## Home Screen
+
+This screen is the starting point for our AGROMED Application.
+
+At first you are asked to select a plant for further analysis
+
+- You are taken to another screen of the app with respect to the selections you have made.
+- There you have the option to select the image of plant leaf to be inspected
+- You have the option to either pick the image from Camera or from your Gallery
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+<img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/WhatsApp%20Image%202021-06-21%20at%2017.29.01.jpeg?raw=true"  width="200"/>
+<img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/WhatsApp%20Image%202021-03-11%20at%2019.22.05%20(2).jpeg?raw=true"  width="200"/>
+<img align="left" alt="GIF" src="https://github.com/adi-code22/AgroMed/blob/master/files/WhatsApp%20Image%202021-03-11%20at%2019.22.05%20(3).jpeg?raw=true"  width="200"/>
+
+
+
+
+
+<p>&nbsp;</p>
+
+## The Output Screen
+
+This is the screen where you are notified about the results of the analysis
+
+- The ML model predicts whether the leaf is fresh or infected by any virus or disease
+- The App accurately predicts the disease the leaf is infected else outputs that the leaf is healthy
+- The model also suggests the Biological and Chemical treatment required for the particular leaf.
+- The App also predicts the nearest stores where these are available
+
+
