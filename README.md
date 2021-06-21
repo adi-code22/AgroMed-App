@@ -54,6 +54,7 @@ At first you are asked to select a plant for further analysis
 - You have the option to either pick the image from Camera or from your Gallery
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
